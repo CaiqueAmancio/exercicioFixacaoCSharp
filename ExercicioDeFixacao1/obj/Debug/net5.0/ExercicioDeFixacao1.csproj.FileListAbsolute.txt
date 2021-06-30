@@ -1,0 +1,16 @@
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ExercicioDeFixacao1.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ExercicioDeFixacao1.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ExercicioDeFixacao1.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ExercicioDeFixacao1.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ExercicioDeFixacao1.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ref\ExercicioDeFixacao1.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net5.0\ExercicioDeFixacao1.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.csprojAssemblyReference.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ref\ExercicioDeFixacao1.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net5.0\ExercicioDeFixacao1.genruntimeconfig.cache
